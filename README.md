@@ -39,7 +39,7 @@
 
 ## ⏱ WakaTime
 
-![WakaTime](https://github-readme-stats.junsi233.top/api/wakatime?username=JunSi_233&theme=tokyonight)
+![WakaTime](https://github-readme-stats.junsi233.top/api/wakatime?username=JunSi_233&theme=tokyonight&layout=compact)
 
 ---
 
@@ -73,4 +73,3 @@
 
 > “憧憬，是距离了解最遥远的一种感情。” ✨
 
-[1]: https://github.com/topics/avalonia?utm_source=chatgpt.com "avalonia · GitHub Topics · GitHub"
