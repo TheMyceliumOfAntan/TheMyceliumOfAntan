@@ -39,15 +39,15 @@
 
 ## ⏱ WakaTime
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JunSi_233&theme=tokyonight)](https://wakatime.com/@JunSi_233)
+![WakaTime](https://github-readme-stats.junsi233.top/api/wakatime?username=JunSi_233&theme=tokyonight)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheMyceliumOfAntan&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMyceliumOfAntan&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.junsi233.top/api?username=TheMyceliumOfAntan&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.junsi233.top/api/top-langs/?username=TheMyceliumOfAntan&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
