@@ -39,7 +39,7 @@
 
 ## ⏱ WakaTime
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JunSi_233\&theme=tokyonight)](https://wakatime.com/@JunSi_233)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JunSi_233&theme=tokyonight)](https://wakatime.com/@JunSi_233)
 
 ---
 
@@ -56,14 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMyceliumOfAntan&theme=tokyo-night"/>
-</p>
-
----
-
-## 📊 Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/TheMyceliumOfAntan?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0"/>
 </p>
 
 ---
