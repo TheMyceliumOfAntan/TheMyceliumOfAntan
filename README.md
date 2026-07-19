@@ -24,6 +24,7 @@
 ### 🧩 Qomicex Launcher
 
 > 一个现代化的 Minecraft 启动器，拥有完善的多实例管理、快捷的模组安装、账户管理、多人联机、个性化主题设置等功能。
+
 🔗 [https://github.com/Qomicex-Public/Qomicex.Tauri](https://github.com/Qomicex-Public/Qomicex.Tauri)
 
 * **多人联机**:支持局域网联机，一键 NAT 穿透，与好友畅快开黑。
@@ -74,5 +75,5 @@
 
 ## 🌸 Motto
 
-> “![一言](https://v1.hitokoto.cn/?encode=svg)” ✨
+> “憧憬，是距离了解最遥远的一种感情。” ✨
 
