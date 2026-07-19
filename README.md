@@ -15,7 +15,6 @@
 
 * 🧪 主力开发：**Minecraft 启动器**
 * 🖥 技术栈：C# · Avalonia
-* 🌱 正在研究：Scaffolding-MC 联机协议实现
 * 🎮 爱好：折腾启动器开发
 
 ---
@@ -24,16 +23,20 @@
 
 ### 🧩 Qomicex Launcher
 
-> 一个基于 Avalonia 的跨平台 Minecraft 启动器
+> 一个现代化的 Minecraft 启动器，拥有完善的多实例管理、快捷的模组安装、账户管理、多人联机、个性化主题设置等功能。
+🔗 [https://github.com/Qomicex-Public/Qomicex.Tauri](https://github.com/Qomicex-Public/Qomicex.Tauri)
 
-🔗 https://github.com/Qomicex-Public/Qomicex.Avalonia
+* **多人联机**:支持局域网联机，一键 NAT 穿透，与好友畅快开黑。
+* **自动安装前置依赖**:智能检测并自动安装前置 Mod，一次点击轻松安装。
+* **实例详情**:细粒度管理每个实例的版本、模组、设置，掌控一切.
+* **高速下载**:多线程分片下载，最大程度利用带宽，极速安装。
+* **资源中心**:一站式获取模组、整合包、资源包，支持 CurseForge 和 Modrinth。
+* **版本列表**:快速浏览并筛选可用的 Minecraft 版本，支持稳定版、测试版及不同加载器类型。
+* **账户管理**:支持多个 Minecraft 账户快捷切换，账号信息本地加密存储。
+* **多实例管理**:同时管理多个游戏实例，版本隔离、模组配置互不干扰。
+* **极简主界面**:清晰直观的布局，让一切操作都触手可及.
 
-* 跨平台桌面 UI（Avalonia）
-* 支持 Forge / NeoForge 安装
-* 模组与版本管理
-* 高度可扩展的启动器架构
-
-跨平台 .NET UI 框架 Avalonia 支持 Windows、Linux、macOS 等系统，适合构建统一的桌面应用。 ([GitHub][1])
+使用Tauri+React+ASP.NET开发，支持 Windows、Linux、macOS 等系统
 
 ---
 
@@ -71,5 +74,5 @@
 
 ## 🌸 Motto
 
-> “憧憬，是距离了解最遥远的一种感情。” ✨
+> “![一言](https://v1.hitokoto.cn/?encode=svg)” ✨
 
